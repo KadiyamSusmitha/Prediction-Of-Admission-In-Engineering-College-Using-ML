@@ -1,2 +1,6 @@
 # Prediction-Of-Admission-In-Engineering-College-Using-ML
-This project helps students predict admission chances into engineering colleges using their rank, category, gender, preferred college, and branch. It uses ML models trained on past data, with a frontend in HTML/CSS/JS and a Flask-SQLite backend using Random Forest for accurate, personalized predictions.
+• Developed a web-based ML system to predict engineering college admission eligibility based on student rank, category, gender and preferences. 
+• Trained and deployed a Random Forest classifier using historical cutoff data for accurate eligibility predictions. 
+• Built a responsive frontend using HTML, CSS and JavaScript for smooth user interaction. 
+• Integrated the model with a Flask back end and SQLite database for real-time results and data handling. 
+• Implemented a recommendation system for alternative branches and colleges based on cutoff trends. 
